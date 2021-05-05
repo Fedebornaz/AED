@@ -1,3 +1,3 @@
-## 0 - Hello World
+# 0 - Hello World
 
 Compilador seleccionado: MinGW (en IDE VSCode corrido con extensión Code Runner)
