@@ -13,6 +13,7 @@ int main()
 
     // CHAR
     assert('a' == 'a');
+    assert('a' != 'b');
     // La siguiente condición devuelve 'true' ya que en código ASCII el caracter 'a' es representado
     // por el 97, mientras que el caracter 'b' es representado por el 98.
     assert('a' < 'b');
